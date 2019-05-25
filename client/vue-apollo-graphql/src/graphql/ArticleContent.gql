@@ -1,0 +1,6 @@
+query ArticleContent($id: Int!) {
+  getArticleContent(id: $id) {
+    id
+    html
+  }
+}

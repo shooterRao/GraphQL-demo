@@ -1,0 +1,6 @@
+query getAllCategories {
+  getAllCategories {
+    num
+    name
+  }
+}
